@@ -27,5 +27,5 @@ and I am committed to mastering Databases and System Security.
 
 ## 🛠️ Tech Stack
 Languages: Python, C#, HTML/CSS, SQL (basic)  
-Tools: Git, VS Code, MySQL, Word, Excel  
+Tools: Git, VS Code, MySQL, PostgreSQL , Word, Excel  
 Learning: Cybersecurity, Advanced Databases, AI
