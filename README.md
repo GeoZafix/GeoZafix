@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 My name is **George Zafeirakopoulos**  
-21 years old from Greece  
+22 years old from Greece  
 
 **Vocational Training School Graduate** (ΣΑΕΚ) with Dual Specialization:  
 - Software Engineering for Computer Systems  
