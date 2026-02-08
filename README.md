@@ -7,7 +7,7 @@ My name is **George Zafeirakopoulos**
 - Applications Development in Information Technology  
 
 **Experience:**  
-- 6-month internship at a hospital working with Databases, Microsoft Word, and Microsoft Excel  
+- 1-year internship at a hospital working with Databases, Microsoft Word, and Microsoft Excel  
 
 ---
 
